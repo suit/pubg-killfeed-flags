@@ -1,5 +1,5 @@
 # Flags in PUBG killfeed by suit
-## Flags with numbers in your killfeed
+## Flags with numbers and 3:2 aspect ratio in your killfeed
 This project provides files to customize your PUBG killfeed with flags instead of the default numbers.
 
 <img src="killfeed-preview.png" alt="PUBG killfeed with flags and numbers">
@@ -10,7 +10,7 @@ Loved the idea of flags. They are easier to remember and always liked them. I cr
 
 The project itself was derived from Ciseur and his [ciz-pubg-killfeed-flags]( https://github.com/Ciseur/ciz-pubg-killfeed-flags), the major improvement is the detail especially in replays and spectator cam.
 
-The flags sourced from [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:National_flags_of_countries).
+The flags sourced from [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:National_flags_of_countries), most flags are are native 3:2 but a few other aspect ratio flags have been converted (like the 2:1 from Canada for example).
 
 ## Install
 To get flags in your PUBG killfeed:
