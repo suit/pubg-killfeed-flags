@@ -4,6 +4,16 @@ This project provides files to customize your PUBG killfeed with flags instead o
 
 <img src="screenshots/killfeed_preview.png" alt="PUBG killfeed with flags and numbers">
 
+## Install
+To get flags in your PUBG killfeed:
+
+1. Download the [most recent archive on github](https://github.com/suit/pubg-killfeed-flags/releases)
+2. Open your windows file explorer and go to %LOCALAPPDATA%\TslGame\Saved
+3. Paste "Observer" directory there (it musts contains "TeamInfo.csv" file and the "TeamIcon" directory)
+4. Restart PUBG
+5. Profit
+
+
 ## Comparision
 
 |<img alt="before" src="screenshots/observer_before.png">original by Ciseur|<img alt="after" src="screenshots/observer_after.png"> new version by suit|
@@ -16,15 +26,6 @@ Loved the idea of flags. They are easier to remember and always liked them. I cr
 The project itself was derived from Ciseur and his [ciz-pubg-killfeed-flags]( https://github.com/Ciseur/ciz-pubg-killfeed-flags), the major improvement is the detail especially in replays and spectator cam.
 
 The flags sourced from [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:National_flags_of_countries), most flags are are native 3:2 but a few other aspect ratio flags have been converted (like the 2:1 from Canada for example).
-
-## Install
-To get flags in your PUBG killfeed:
-
-1. Download the [most recent archive on github](https://github.com/suit/pubg-killfeed-flags/releases)
-2. Open your windows file explorer and go to %LOCALAPPDATA%\TslGame\Saved
-3. Paste "Observer" directory there (it musts contains "TeamInfo.csv" file and the "TeamIcon" directory)
-4. Restart PUBG
-5. Profit
 
 ## List of flags with names (with number)
 
