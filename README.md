@@ -4,9 +4,11 @@ This project provides files to customize your PUBG killfeed with flags instead o
 
 <img src="killfeed-preview.png" alt="PUBG killfeed with flags and numbers">
 
-This is based on Kowo version shared on his [YouTube video](https://www.youtube.com/watch?v=8OWbQ_wXhpk). The order of flags is consistent, so you can play with someone using his version.
+This is based on Kowo version shared on his [YouTube video](https://www.youtube.com/watch?v=8OWbQ_wXhpk). The order of flags is consistent, so you can play with someone using his version. 
 
 Loved the idea of flags. They are easier to remember and always liked them. I created this project to improve the readability and add numbers to provide compatibility if you play with people not using the flags.
+
+The project itself was derived from Ciseur and his [ciz-pubg-killfeed-flags]( https://github.com/Ciseur/ciz-pubg-killfeed-flags), the major improvement is the detail especially in replays and spectator cam.
 
 The flags sourced from [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:National_flags_of_countries).
 
@@ -33,3 +35,5 @@ To get flags in your PUBG killfeed:
 |<img alt="Congo" src="Observer/TeamIcon/36-CD.png"> Congo|<img alt="India" src="Observer/TeamIcon/37-IN.png"> India|<img alt="Kenya" src="Observer/TeamIcon/38-KE.png"> Kenya|<img alt="Wales" src="Observer/TeamIcon/39-GB-WLS.png"> Wales|<img alt="Czech Republic" src="Observer/TeamIcon/40-CZ.png"> Czech Republic|
 |<img alt="Scotland" src="Observer/TeamIcon/41-GB-SCT.png"> Scotland|<img alt="Kazakhstan" src="Observer/TeamIcon/42-KZ.png"> Kazakhstan|<img alt="Ireland" src="Observer/TeamIcon/43-IE.png"> Ireland|<img alt="Algeria" src="Observer/TeamIcon/44-DZ.png"> Algeria|<img alt="Romania" src="Observer/TeamIcon/45-RO.png"> Romania|
 |<img alt="Angola" src="Observer/TeamIcon/46-AO.png"> Angola|<img alt="Bahamas" src="Observer/TeamIcon/47-BS.png"> Bahamas|<img alt="Greenland" src="Observer/TeamIcon/48-GL.png"> Greenland|<img alt="Olympics" src="Observer/TeamIcon/49-IOC.png"> Olympics|<img alt="Pirate" src="Observer/TeamIcon/50-PIR.png"> Pirate|
+
+## Comparision
