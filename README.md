@@ -2,7 +2,12 @@
 ## Flags with numbers and 3:2 aspect ratio in your killfeed
 This project provides files to customize your PUBG killfeed with flags instead of the default numbers.
 
-<img src="killfeed-preview.png" alt="PUBG killfeed with flags and numbers">
+<img src="screenshots/killfeed_preview.png" alt="PUBG killfeed with flags and numbers">
+
+## Comparision
+
+|<img alt="before" src="screenshots/observer_before.png">original by Ciseur|<img alt="after" src="screenshots/observer_after.png"> new version by suit|
+| -- | -- |
 
 This is based on Kowo version shared on his [YouTube video](https://www.youtube.com/watch?v=8OWbQ_wXhpk). The order of flags is consistent, so you can play with someone using his version. 
 
@@ -36,4 +41,3 @@ To get flags in your PUBG killfeed:
 |<img alt="Scotland" src="Observer/TeamIcon/41-GB-SCT.png"> Scotland|<img alt="Kazakhstan" src="Observer/TeamIcon/42-KZ.png"> Kazakhstan|<img alt="Ireland" src="Observer/TeamIcon/43-IE.png"> Ireland|<img alt="Algeria" src="Observer/TeamIcon/44-DZ.png"> Algeria|<img alt="Romania" src="Observer/TeamIcon/45-RO.png"> Romania|
 |<img alt="Angola" src="Observer/TeamIcon/46-AO.png"> Angola|<img alt="Bahamas" src="Observer/TeamIcon/47-BS.png"> Bahamas|<img alt="Greenland" src="Observer/TeamIcon/48-GL.png"> Greenland|<img alt="Olympics" src="Observer/TeamIcon/49-IOC.png"> Olympics|<img alt="Pirate" src="Observer/TeamIcon/50-PIR.png"> Pirate|
 
-## Comparision
